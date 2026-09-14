@@ -1,6 +1,6 @@
 # Entra ID IAM Lab
 
-Portfolio project demonstrating practical Identity & Access Management (IAM) concepts with Microsoft Entra ID.
+Demonstrating practical Identity & Access Management (IAM) concepts with Microsoft Entra ID.
 
 ## Objectives
 
