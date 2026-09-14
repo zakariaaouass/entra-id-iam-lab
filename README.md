@@ -76,4 +76,4 @@ See `/docs` for the lab notes and governance records.
 
 ## Disclaimer
 
-This is a personal training lab using fictional users/resources. No Orange production information or credentials should be included.
+This is a personal training lab using fictional users/resources. No  production information
